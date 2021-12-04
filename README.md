@@ -1,5 +1,7 @@
 Hey there, I'm Archit. I'm a Software Developer
 
+<a href="https://app.daily.dev/iamarchitg"><img src="https://api.daily.dev/devcards/92728bbad66a4b618b5693a600077630.png?r=msg" width="400" alt="Archit Garg's Dev Card"/></a>
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
@@ -34,6 +36,6 @@ Add projects-->
 ![Snapchat](https://img.shields.io/badge/<mrarchitg>%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white)
 ![Twitter](https://img.shields.io/badge/<mr_architg>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)
 
-<a href="https://app.daily.dev/iamarchitg"><img src="https://api.daily.dev/devcards/92728bbad66a4b618b5693a600077630.png?r=6a3" width="400" alt="Archit Garg's Dev Card"/></a>
+
 
 ⭐️ From [architg98](https://github.com/architg98)
