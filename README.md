@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architg98&label=Profile%20views&color=0e75b6&style=flat" alt="architg98" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architg98" alt="architg98" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=architg98" alt="architg98" /></p>
 
-<p align="left"> <a href="https://twitter.com/mr_architg" target="blank"><img src="https://img.shields.io/twitter/follow/mr_architg?logo=twitter&style=for-the-badge" alt="mr_architg" /></a> </p>
+<p align="left"> <img src="https://img.shields.io/twitter/follow/mr_architg?logo=twitter&style=for-the-badge" alt="mr_architg" /> </p>
 
 - 🌱 I’m currently learning **Reactjs, Redux**
 
-- 📝 I regularly write articles on [http://brandarchit.com/](http://brandarchit.com/)
+- 👨‍💻 All of my projects are available at [https://techrez.io/resume/archit-garg](https://techrez.io/resume/archit-garg)
+
+- 📝 I occasionaly write articles on [http://brandarchit.com/](http://brandarchit.com/)
 
 - 💬 Ask me about **Reactjs**
 
