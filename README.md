@@ -1,7 +1,5 @@
 Hello, world. I'm Archit
 
-<a href="https://app.daily.dev/iamarchitg"><img src="https://api.daily.dev/devcards/92728bbad66a4b618b5693a600077630.png?r=msg" width="400" alt="Archit Garg's Dev Card"/></a>
-
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
