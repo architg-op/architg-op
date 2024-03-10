@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=architg-op" alt="architg9-op" /></p>
 
-<p align="left"> <img src="https://img.shields.io/twitter/follow/mr_architg?logo=twitter&style=for-the-badge" alt="mr_architg" /> </p>
-
-- Portfolio[architgarg.me](http://www.architgarg.me/)
+- Portfolio [architgarg.me](http://www.architgarg.me/)
 
 - 🌱 I’m currently learning Web Development - Full Stack**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **archit.g1998@gmail,com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mrarchitg/](https://www.linkedin.com/in/imarchitgarg/)
+- 📄 Know about my experiences [linkedin.com/in/imarchitgarg/](https://www.linkedin.com/in/imarchitgarg/)
 
 - ⚡ Fun fact **I think I am funny**
 
