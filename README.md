@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some more info at [https://techrez.io/resume/archit-garg](https://techrez.io/resume/archit-garg)
 
-- 📫 How to reach me **archit.g1998@gmail,com**
+- 📫 How to reach me **archit.g1998@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/imarchitgarg/](https://www.linkedin.com/in/imarchitgarg/)
 
@@ -21,9 +21,9 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/architg98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/architg98" height="30" width="40" /></a>
 <a href="https://twitter.com/mr_architg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_architg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrarchitg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrarchitg/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/imarchitgarg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrarchitg/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/archit.g1998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/archit.g1998/" height="30" width="40" /></a>
-<a href="https://instagram.com/imarchitgarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imarchitgarg" height="30" width="40" /></a>
+<a href="https://instagram.com/ig_architg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imarchitgarg" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mrarchitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mrarchitg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/architg98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="architg98" height="30" width="40" /></a>
 </p>
